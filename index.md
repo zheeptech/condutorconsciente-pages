@@ -42,5 +42,5 @@ A solução **Condutor Consciente** é muito mais abrangente do que o simples mo
 - Emissão do documento multa educativa, sem valor financeiro e sem pontuação na CNH, mas que possibilitará a aplicação de sanções pelo poder público diante de reincidências.
 - Disponibilização de um portal na internet para conexão e colaboração entre os agentes de fiscalização e a administração pública.
 
-| [Login](https://app.condutorconsciente.com.br) | [TechInova](https://www.techinova.net.br) |
-|-------|-----------|
+| [TechInova](https://www.techinova.net.br) |
+|-----------|
